@@ -8,6 +8,8 @@ object HelloWorld {
 		println("Hello World!")
 	}
 	
+	
+	
 	def square(x: Double) = x*x
 	
 	def cube(x: Double) = x*x*x
